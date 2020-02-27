@@ -1,13 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba327108-c339-438a-af94-931295742eaf" name="Default Changelist" comment="" />
+    <list default="true" id="ba327108-c339-438a-af94-931295742eaf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class/CurrentConditionsDisplay.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class/StatisticsDisplay.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class/WeatherData.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/DisplayElement.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/Observer.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/Subject.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YOzjMyeVpu2ZbknS1gJ89jniSe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,7 +40,28 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="WeatherMonitor (Observer Pattern)" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -29,5 +75,35 @@
       <updated>1582828562805</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1540" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582829285913">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1540" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1582829285913" />
+    <state x="1877" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1582833521469">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1877" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1582833521469" />
+    <state width="698" height="222" key="GridCell.Tab.0.bottom" timestamp="1582835427587">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="698" height="222" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1582835427587" />
+    <state width="698" height="222" key="GridCell.Tab.0.center" timestamp="1582835427587">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="698" height="222" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1582835427587" />
+    <state width="698" height="222" key="GridCell.Tab.0.left" timestamp="1582835427587">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="698" height="222" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1582835427587" />
+    <state width="698" height="222" key="GridCell.Tab.0.right" timestamp="1582835427587">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="698" height="222" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1582835427587" />
+    <state x="1678" y="163" key="Vcs.Push.Dialog.v2" timestamp="1582835443684">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1678" y="163" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1582835443684" />
   </component>
 </project>
